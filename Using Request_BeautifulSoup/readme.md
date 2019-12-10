@@ -1,4 +1,4 @@
-Using Selenium comes in handy when scraping dynamic web pages, that is when the page is loaded with javascripts and we need sufficient user interaction to show the required data. However, there are simple pages where data is readily availabale on load. These are called static web pages. I have attached a scraping example which downloads data from news paper archive of Indian economic newspaper daily The Hindu Business Line.
+Using Selenium comes in handy when scraping dynamic web pages, that is when the page is loaded with javascripts and we need sufficient user interaction to show the required data. However, there are simple pages where data is readily available on load. These are called static web pages. I have attached a scraping example which downloads data from news paper archive of Indian economic newspaper daily The Hindu Business Line.
 
 Key Highlights-
 1) Use the start and End date range to get data for the period.
